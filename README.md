@@ -100,6 +100,7 @@ Some key metric definitions:
 ### 🔹 Overall Business KPIs
 ![Overall KPIs](screenshots/overall_kpis.png)
 
+
 ---
 
 ## 📈 Business Impact

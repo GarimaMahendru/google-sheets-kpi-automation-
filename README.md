@@ -92,7 +92,7 @@ Some key metric definitions:
 ## 📸 Dashboard Views
 
 ### 🔹 Vertical KPI View
-![Vertical View](screenshots/vertical_view.png)
+![Vertical View](screenshots/vertical_view_nc.png)
 
 ### 🔹 Target vs Achievement View
 ![Target vs Achievement](screenshots/target_vs_achievement.png)

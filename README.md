@@ -95,7 +95,7 @@ Some key metric definitions:
 ![Vertical View](screenshots/vertical_view_nc.png)
 
 ### 🔹 Target vs Achievement View
-![Target vs Achievement](screenshots/target_vs_achievement.png)
+![Target vs Achievement](screenshots/target_vs_achived.png)
 
 ### 🔹 Overall Business KPIs
 ![Overall KPIs](screenshots/overall_kpis.png)

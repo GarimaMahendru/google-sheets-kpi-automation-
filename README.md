@@ -98,7 +98,7 @@ Some key metric definitions:
 ![Target vs Achievement](screenshots/target_vs_achived.png)
 
 ### 🔹 Overall Business KPIs
-![Overall KPIs](screenshots/overall_kpis.png)
+![Overall KPIs](screenshots/overall_kpis_new.png)
 
 
 ---
